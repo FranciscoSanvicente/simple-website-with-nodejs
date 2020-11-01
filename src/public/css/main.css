@@ -1,0 +1,24 @@
+body{
+    background: #4ECDC4;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #556270, #4ECDC4);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #556270, #4ECDC4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.main-header {
+    position: relative;
+    background: url(../img/pews-logo.png);
+    background-size: cover;
+    min-height: 400px;
+  }
+  
+  .background-overlay {
+    position: absolute;
+    background:rgba(34, 112, 147,0.7);
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  .team, footer {
+  background: #333669;
+}
