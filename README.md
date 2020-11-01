@@ -1,5 +1,5 @@
-# simple-website-with-nodejs
-# my First Nodejs/Express Website This is the repository of a very simple nodejs real project  
+simple-website-with-nodejs
+my First Nodejs/Express Website This is the repository of a very simple nodejs real project  
 start a nodejs project 
 create routes for your server application  
 to use a template engine like ejs, handlebars, pug, etc. 
