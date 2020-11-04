@@ -11,5 +11,6 @@ start a nodejs project
 ![](https://github.com/FranciscoSanvicente/simple-website-with-nodejs/blob/main/Captura2.PNG)
 
 to start running
-``` npm run dev, or
-npm start```
+
+``` npm run dev ``` or
+```npm start```
