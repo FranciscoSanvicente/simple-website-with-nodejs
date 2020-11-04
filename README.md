@@ -6,6 +6,10 @@ start a nodejs project
 - Call Assets from CDNs and use static files 
 - Divide content using partials feature from Template engines sencillo sitio web con nodejs
 
+![](https://github.com/FranciscoSanvicente/simple-website-with-nodejs/blob/main/Captura.PNG)
+
+![](https://github.com/FranciscoSanvicente/simple-website-with-nodejs/blob/main/Captura2.PNG)
+
 to start running
-```npm run dev, or
+``` npm run dev, or
 npm start```
